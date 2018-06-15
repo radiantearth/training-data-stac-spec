@@ -1,0 +1,56 @@
+{
+"type": "Feature",
+"bbox": [32.4875934, 15.5138112, 32.4893484, 15.5155662 ],
+geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+          [32.4875934, 15.5155662],
+          [32.4893484, 15.5155662],
+          [32.4893484, 15.5138112],
+          [32.4875934, 15.5138112],
+          [32.4875934, 15.5155662]
+          ]
+        ]
+},
+"id": "AOI_5_Khartoum_img4"
+"properties": {
+  "td:contributor": "",
+  "td:method": "image",
+  "datetime: "2015-04-13T08:18:08Z"
+}
+"assets": {    
+    "thumbnail": {       
+      "href": "",      
+      "name": "Thumbnail"       
+    },    
+    "labels": {      
+      "href": "http://spacenet.github.io/AOI_Khartoum_Roads_Train/geojson/spacenetroards/spacenetroads_AOI_5_Khartoum_img4.geojson",      
+      "name": "Labels", 
+      "type": "geojson"     
+    },    
+    "primary-labeled-asset": {      
+      "href":      "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/RGB-PanSharpen/RGB-PanSharpen_AOI_5_Khartoum_img4.tif",
+      "name": "RGB Pan Sharpened (primary)",
+      "type": "COG"
+    }
+    "MUL": {
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL/MUL_AOI_5_Khartoum_img4.tif"
+      "name": "8 band multispectral",
+      "type": "COG"
+    },
+    "MUL-PanSharpen": {
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL-PanSharpen/MUL-PanSharpen_AOI_5_Khartoum_img4.tif"
+      "name": "8 band pan-sharpened multispectral",
+      "type": "COG"
+    },
+    "PAN": {
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/PAN/PAN_AOI_5_Khartoum_img4.tif"
+      "name": "Single band panchromatic",
+      "type": "COG"
+}
+
+"links": {
+    "self": "http://spacenet.github.io/AOI_5_Khartoum/AOI_Khartoum_Roads_Train/spacenetroards/spacenetroads_AOI_5_Khartoum_img4_Item.geojson"
+    "labeled-assets": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/RGB-PanSharpen/RGB-PanSharpen_AOI_5_Khartoum_img4.json"
+}
