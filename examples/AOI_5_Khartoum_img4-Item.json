@@ -35,17 +35,17 @@
       "type": "COG"
     },
     "MUL": {
-      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL/MUL_AOI_5_Khartoum_img4.tif"
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL/MUL_AOI_5_Khartoum_img4.tif",
       "name": "8 band multispectral",
       "type": "COG"
     },
     "MUL-PanSharpen": {
-      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL-PanSharpen/MUL-PanSharpen_AOI_5_Khartoum_img4.tif"
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/MUL-PanSharpen/MUL-PanSharpen_AOI_5_Khartoum_img4.tif",
       "name": "8 band pan-sharpened multispectral",
       "type": "COG"
     },
     "PAN": {
-      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/PAN/PAN_AOI_5_Khartoum_img4.tif"
+      "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/PAN/PAN_AOI_5_Khartoum_img4.tif",
       "name": "Single band panchromatic",
       "type": "COG"
     },
