@@ -48,6 +48,7 @@
       "href": "http://spacenet.github.io/AOI_5_Khartoum/srcData/rasterData/PAN/PAN_AOI_5_Khartoum_img4.tif"
       "name": "Single band panchromatic",
       "type": "COG"
+    },
 }
 
 "links": {
