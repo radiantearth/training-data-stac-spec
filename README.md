@@ -1,3 +1,5 @@
+# This repository is archived. For the latest specification of STAC training data please refer to label extension in [radiantearth/stac-spec](https://github.com/radiantearth/stac-spec/tree/master/extensions/label) repository. 
+
 # Training Data STAC Profile
 
 The Training Data STAC Profile is an extension of the SpatioTemporal Asset Catalog core to handle 'training data' assets. 
